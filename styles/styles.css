@@ -55,3 +55,7 @@ body{
 .side-content{
     margin: 0 20px;
 }
+
+.center{
+    text-align: center;
+}
